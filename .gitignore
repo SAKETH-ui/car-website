@@ -1,0 +1,5 @@
+# Archives and OS artifacts
+*.zip
+Thumbs.db
+.DS_Store
+*.log
